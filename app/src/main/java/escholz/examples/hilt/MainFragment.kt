@@ -1,4 +1,4 @@
-package escholz.examples.hilt.ui.main
+package escholz.examples.hilt
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -7,7 +7,6 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.viewModels
 import dagger.hilt.android.AndroidEntryPoint
-import escholz.examples.hilt.R
 
 @AndroidEntryPoint
 class MainFragment : Fragment() {

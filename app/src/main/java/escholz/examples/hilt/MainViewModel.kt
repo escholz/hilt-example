@@ -1,4 +1,4 @@
-package escholz.examples.hilt.ui.main
+package escholz.examples.hilt
 
 import android.app.Application
 import androidx.hilt.Assisted
